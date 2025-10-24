@@ -1,1 +1,4 @@
-Nama : NATALIUS DACHI Kelas : 05TPLE017 Tugas Pertemuan 4 - 7
+Nama : NATALIUS DACHI 
+NIM : 231011400464
+Kelas : 05TPLE017 
+Tugas Pertemuan 4 - 7
